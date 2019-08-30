@@ -1,0 +1,50 @@
+nav{
+background-color: blue;
+text-align:center;
+padding:0px;
+margin :0;
+height:80px;
+line-height: 80px;
+}
+
+ul{
+ list-style-type: none;
+ text-align: center;
+ margin-top: 50px;
+}
+
+ul li{
+margin-bottom: 50px;
+font-size: 20px;
+}
+
+ul li .menu{
+height:40px;
+width: 50px;
+}
+
+.button1{
+ background-color: brown;
+ border: none;
+ color:white;
+ text-align: center;
+ padding:15px 20px;
+ display: inline-block;
+ }
+
+.container{
+height:100%;
+position: fixed;
+z-index:1;
+}
+
+.left{
+ left:0;
+ width:20%;
+ background-color: red;
+ }
+
+#right{
+ list-style-type: none;
+
+ }
